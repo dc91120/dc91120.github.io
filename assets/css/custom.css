@@ -1,7 +1,56 @@
-.discord-link {
-    text-decoration: none;
+/*
+a.icon {
+    color: #005000 !important;
+}
+*/
+
+.special h2, .special p {
+    color: #000;
+}
+
+.discord-link:hover, a.icon:hover {
+    opacity: 0.7;
 }
 
 .custom-wrapper {
     background-color: rgba(255,255,255,0);
+}
+
+#banner .inner {
+    top: 190px !important;
+}
+
+.content h3 {
+  color: #ededed !important;
+}
+
+.highlights .content .icon {
+      margin: 0.5rem; }
+}
+
+.cfp {
+    line-height: 1em;
+    padding:0;
+    margin: 0;
+}
+
+.team {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.team > li {
+    display: block;
+    margin: 0.2rem 1rem;
+}
+
+/* events.html */
+
+.wrapper .content {
+ background: #121212 !important;
+  color: #ededed;
+}
+
+hr {
+    background: #555555 !important;
 }
