@@ -25,7 +25,8 @@ body {
     -moz-transition: none !important;
     -webkit-transition: none !important;
     -ms-transition: none !important;
-    transition: none !important; }
+    transition: none !important;    
+ }
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2019,9 +2020,9 @@ ul.icons {
   #banner.small {
     height: 30vh !important;
     min-height: 30vh; }
-  @media screen and (max-width: 1280px) {
+  /* @media screen and (max-width: 1280px) {
     #banner video {
-      display: none; } }
+      display: none; } } */
   @media screen and (max-width: 736px) {
     #banner {
       height: auto !important;
