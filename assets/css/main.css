@@ -1994,12 +1994,14 @@ ul.icons {
     overflow: hidden;
     position: absolute;
     right: 50%;
-    width: auto; }
+    width: auto;
+  }
+  
   #banner:before {
-    -moz-transition: opacity 3s ease;
-    -webkit-transition: opacity 3s ease;
-    -ms-transition: opacity 3s ease;
-    transition: opacity 3s ease;
+    -moz-transition: opacity 4s ease;
+    -webkit-transition: opacity 4s ease;
+    -ms-transition: opacity 4s ease;
+    transition: opacity 4s ease;
     -moz-transition-delay: 1.25s;
     -webkit-transition-delay: 1.25s;
     -ms-transition-delay: 1.25s;
@@ -2009,7 +2011,7 @@ ul.icons {
     display: block;
     height: 100%;
     left: 0;
-    opacity: 0.45;
+    opacity: 0.01;
     position: absolute;
     top: 0;
     width: 100%;
@@ -2020,14 +2022,14 @@ ul.icons {
     display: block;
     height: 100%;
     left: 0;
-    opacity: 0.4;
+    opacity: 0.01;
     position: absolute;
     top: 0;
     webkit-linear-gradientidth: 100%;
     width: 100%;
     z-index: 1; }
   #banner.small {
-    height: 30vh !important;
+    height: 40vh !important;
     min-height: 30vh; }
   /* @media screen and (max-width: 1280px) {
     #banner video {
