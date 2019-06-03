@@ -4,8 +4,10 @@ a.icon {
 }
 */
 
-.inner .special h1 {
-    margin-top: -5.5rem;
+@media screen and (min-width: 1024px) {
+    .inner .special h1 {
+        margin-top: -5.5rem;
+    }
 }
 .special h2, .special h1, .special p {
     color: #000;
