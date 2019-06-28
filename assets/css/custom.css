@@ -56,7 +56,9 @@ hr {
 .0x01 figure {
  width:400px;
  height:400px;
+ overflow: hidden;
 }
+.0x01 figure img { width: 100%; max-width: 400px; }
 
 /* cfp.html */
 
