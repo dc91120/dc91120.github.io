@@ -54,9 +54,10 @@ hr {
 }
 
 ._0x01 figure {
- width:400px;
- height:400px;
- overflow: hidden;
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+    display: inline-block;
 }
 ._0x01 figure img { width: 100%; max-width: 400px; }
 
