@@ -53,13 +53,13 @@ hr {
     width: 50%;
 }
 
-._0x01 ._0x02 figure {
+._0x01,._0x02 figure {
     width: 400px;
     height: 400px;
     overflow: hidden;
     display: inline-block;
 }
-._0x01 ._0x02 figure img { width: 100%; max-width: 400px; }
+._0x01,._0x02 figure img { width: 100%; max-width: 400px; }
 
 /* cfp.html */
 
